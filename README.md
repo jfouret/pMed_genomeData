@@ -18,19 +18,19 @@ in this repository : `./annotation.gff3.gz`
 
 in this repository : `./aln.fa.bz2`
 
-### Species :
+### Species : 
 
-* Desmodus rotundus
-* Eptesicus fuscus
-* Hipposideros armiger
-* Miniopterus natalensis
-* Myotis brandtii
-* Myotis davidii
-* Myotis lucifugus
-* Phyllostomus discolor
-* Pteropus alecto
-* Pteropus medius
-* Pteropus vampyrus
-* Rhinolophus ferrumequinum
-* Rousettus aegyptiacus
+- *Desmodus rotundus*
+- *Eptesicus fuscus*
+- *Hipposideros armiger*
+- *Miniopterus natalensis*
+- *Myotis brandtii*
+- *Myotis davidii*
+- *Myotis lucifugus*
+- *Phyllostomus discolor*
+- *Pteropus alecto*
+- *Pteropus medius*
+- *Pteropus vampyrus*
+- *Rhinolophus ferrumequinum*
+- *Rousettus aegyptiacus*
 
