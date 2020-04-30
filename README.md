@@ -16,7 +16,7 @@ in this repository : `./annotation.gff3.gz`
 
 ### File :
 
-in this repository : `./aln.fa.gz`
+in this repository : `./aln.fa.bz2`
 
 ### Species :
 
