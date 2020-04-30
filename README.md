@@ -8,6 +8,10 @@ The taxonomy id of *P medius* is [143291](https://www.ebi.ac.uk/ena/data/view/Ta
 
 Data are available [here](https://www.ebi.ac.uk/ena/data/view/GCA_902729225)
 
+## Alternative assemblies
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3779227.svg)](https://doi.org/10.5281/zenodo.3779227)
+
 ## Annotation file
 
 in this repository : `./annotation.gff3.gz`
